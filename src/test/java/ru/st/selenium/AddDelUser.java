@@ -1,7 +1,7 @@
 import junit.framework.Test;
 import junit.framework.TestSuite;
 
-public class Login {
+public class AddDelUser {
 
   public static Test suite() {
     TestSuite suite = new TestSuite();
